@@ -202,12 +202,11 @@ Motto:
 
 # 🏆 GitHub Achievements
 
-<div align="center">
+![Python](https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge&logo=python)
 
-<img src="https://github-profile-trophy.vercel.app/?username=YasmeenGull&theme=tokyonight&no-frame=true&row=2&column=4"/>
+![AI](https://img.shields.io/badge/AI-Learning-purple?style=for-the-badge)
 
-</div>
-
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge)
 ---
 
 
