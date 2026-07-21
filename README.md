@@ -210,7 +210,7 @@ Motto:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YasmeenGull&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats-nu-ten-17.vercel.app/api?username=YasmeenGull&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img width="49%" src="https://streak-stats.demolab.com?user=YasmeenGull&theme=tokyonight&hide_border=true"/>
 
@@ -220,7 +220,7 @@ Motto:
 
 <div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmeenGull&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats-nu-ten-17.vercel.app/api/top-langs/?username=YasmeenGull&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -235,11 +235,8 @@ Motto:
 ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge)
 ---
 # 🏆 GitHub Trophies
-
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=YasmeenGull&theme=tokyonight&no-frame=true&margin-w=10"/>
-
 </p>
 
 ---
