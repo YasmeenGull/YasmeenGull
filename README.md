@@ -71,7 +71,7 @@ Interests:
 
 Current Focus:
    Full Stack Development
-
+   AI/ML
 Dream:
    Become a successful Software Developer
    and build impactful software.
@@ -188,25 +188,7 @@ Motto:
 
 <!-- ===================================================== -->
 
-# 📊 GitHub Statistics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YasmeenGull&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmeenGull&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YasmeenGull&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 📈 GitHub Activity Graph
 
@@ -381,43 +363,7 @@ Add Your Repository Here
 
 ---
 
-# 📅 Developer Journey
 
-```text
-🎓 BS Computer Science
-
-        │
-
-        ▼
-
-📖 Learning Programming
-
-        │
-
-        ▼
-
-💻 Building Projects
-
-        │
-
-        ▼
-
-🤖 Artificial Intelligence
-
-        │
-
-        ▼
-
-🌐 Full Stack Development
-
-        │
-
-        ▼
-
-🚀 Professional Software Developer
-```
-
----
 
 <div align="center">
 
@@ -444,13 +390,13 @@ Add Your Repository Here
 
    
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<a href="www.linkedin.com/in/yasmeen-gull-82a9a0326">
 <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
    
 
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:gullyasmeen814@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
 
