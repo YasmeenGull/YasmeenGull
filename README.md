@@ -50,6 +50,13 @@ I believe every project is an opportunity to learn something new and improve as 
 <br clear="right"/>
 
 ---
+<p align="center">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="450"/>
+
+</p>
+
+---
 
 # 👩‍💻 About Me
 
@@ -199,6 +206,25 @@ Motto:
 </div>
 
 ---
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YasmeenGull&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=YasmeenGull&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmeenGull&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
 
 # 🏆 GitHub Achievements
 
@@ -208,7 +234,27 @@ Motto:
 
 ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge)
 ---
+# 🏆 GitHub Trophies
 
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YasmeenGull&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+# 🎖 Developer Badges
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge&logo=python"/>
+
+<img src="https://img.shields.io/badge/AI-Learning-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open_Source-Contributor-success?style=for-the-badge"/>
+
+</p>
 
 
 
@@ -269,7 +315,7 @@ Motto:
 
    
 
-<a href="www.linkedin.com/in/yasmeen-gull-82a9a0326">
+<a href="https://www.linkedin.com/in/yasmeen-gull-82a9a0326/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
@@ -343,6 +389,13 @@ Motto:
 ✔ Keep growing through continuous learning
 ✔ Create technology that makes a positive impact
 ```
+
+---
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
 
 ---
 
