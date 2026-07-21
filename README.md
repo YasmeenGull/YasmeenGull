@@ -210,128 +210,8 @@ Motto:
 
 ---
 
-# 🥇 Achievement Badges
 
-<div align="center">
 
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/GitHub-Developer-black?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/badge/Learning-Everyday-blueviolet?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Coding-Passionate-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Problem-Solver-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Software-Developer-0A66C2?style=for-the-badge"/>
-
-</div>
-
----
-
-# 🌟 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
-
-## 🎂 Birthday Website
-
-A responsive birthday celebration website built using HTML, CSS, and JavaScript with interactive animations and a clean user interface.
-
-**Tech Used**
-
-HTML • CSS • JavaScript
-
-⭐ Repository Link:
-
-```text
-https://github.com/YasmeenGull/birthday-website
-```
-
-</td>
-
-<td width="50%">
-
-## 🤖 AI / ML Tasks
-
-A collection of Artificial Intelligence and Machine Learning exercises, Python implementations, and practice projects.
-
-**Tech Used**
-
-Python • Pandas • Machine Learning
-
-⭐ Repository Link
-
-```text
-Add Your Repository Here
-```
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 🧠 LifeOS Internship
-
-Behavioral AI internship project focused on data pipelines, feature engineering, analytics, and modular software development.
-
-**Tech Used**
-
-Python • SQLite • Git • Docker
-
-⭐ Repository Link
-
-```text
-Add Your Repository Here
-```
-
-</td>
-
-<td width="50%">
-
-## 🌐 Portfolio Website
-
-A modern personal portfolio showcasing projects, skills, achievements, and developer journey.
-
-**Tech Used**
-
-HTML • CSS • JavaScript
-
-⭐ Repository Link
-
-```text
-Add Your Repository Here
-```
-
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2">
-
-## 🚀 Future Full Stack Projects
-
-* MERN Stack Applications
-* AI-powered Web Applications
-* REST APIs
-* Cloud Projects
-* Open Source Contributions
-
-</td>
-
-</tr>
-
-</table>
-
----
 
 # 💼 What I'm Working On
 
@@ -423,7 +303,7 @@ Add Your Repository Here
 
 # 🐍 Contribution Snake
 
-> **This animation appears after you enable the Snake GitHub Action.**
+
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/YasmeenGull/YasmeenGull/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
