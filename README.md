@@ -17,9 +17,9 @@
 <p>
 <img src="https://komarev.com/ghpvc/?username=YasmeenGull&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/YasmeenGull?style=for-the-badge&color=7C3AED"/>
+<img src="https://img.shields.io/github/followers/YasmeenGull?style=for-the-badge&logo=github&cacheSeconds=300"/>
 
-<img src="https://img.shields.io/github/stars/YasmeenGull?style=for-the-badge&color=0EA5E9"/>
+<img src="https://komarev.com/ghpvc/?username=YasmeenGull&style=for-the-badge&color=7C3AED"/>
 
 <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blueviolet?style=for-the-badge"/>
 
