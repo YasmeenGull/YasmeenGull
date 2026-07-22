@@ -19,7 +19,6 @@
 
 <img src="https://img.shields.io/github/followers/YasmeenGull?style=for-the-badge&logo=github&cacheSeconds=300"/>
 
-<img src="https://komarev.com/ghpvc/?username=YasmeenGull&style=for-the-badge&color=7C3AED"/>
 
 <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blueviolet?style=for-the-badge"/>
 
@@ -234,12 +233,7 @@ Motto:
 
 ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge)
 ---
-# 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YasmeenGull&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
 
----
 
 # 🎖 Developer Badges
 
