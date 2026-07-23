@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:F472B6,50:C084FC,100:8B5CF6&text=Yasmeen%20Gull&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=color=EC4899,50:C084FC,100:8B5CF6&text=Yasmeen%20Gull&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60"/>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> Hi, I'm Yasmeen Gull
 
