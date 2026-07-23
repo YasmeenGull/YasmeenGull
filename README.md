@@ -8,14 +8,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:06B6D4&text=Yasmeen%20Gull&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Software%20Developer&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:F472B6,50:C084FC,100:8B5CF6&text=Yasmeen%20Gull&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60"/>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> Hi, I'm Yasmeen Gull
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=900&color=7C3AED&lines=Computer+Science+Student;Aspiring+Software+Developer;AI+%7C+Machine+Learning+Enthusiast;Full+Stack+Developer+in+Progress;Always+Learning+Something+New"/>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=YasmeenGull&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=YasmeenGull&label=Profile%20Views&color=color=F472B6&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/YasmeenGull?style=for-the-badge&logo=github&cacheSeconds=300"/>
 
@@ -51,10 +51,9 @@ I believe every project is an opportunity to learn something new and improve as 
 ---
 <p align="center">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="450"/>
+<img width="420" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 </p>
-
 ---
 
 # 👩‍💻 About Me
@@ -209,9 +208,9 @@ Motto:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-nu-ten-17.vercel.app/api?username=YasmeenGull&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats-nu-ten-17.vercel.app/api?username=YasmeenGull&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=YasmeenGull&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=YasmeenGull&theme=midnight-purplet&hide_border=true"/>
 
 </div>
 
@@ -219,7 +218,7 @@ Motto:
 
 <div align="center">
 
-<img width="45%" src="https://github-readme-stats-nu-ten-17.vercel.app/api/top-langs/?username=YasmeenGull&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats-nu-ten-17.vercel.app/api/top-langs/?username=YasmeenGull&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
@@ -296,45 +295,31 @@ Motto:
 
 <!-- ===================================================== -->
 
-# 🌐 Connect With Me
+<h2 align="center">🌸 Connect With Me</h2>
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/YasmeenGull">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-
-   
 
 <a href="https://www.linkedin.com/in/yasmeen-gull-82a9a0326/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
-
-   
 
 <a href="mailto:gullyasmeen814@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
-
-   
 
 <a href="https://www.instagram.com/gully.yasmeen">
-<img src="https://skillicons.dev/icons?i=instagram" height="55"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
-
-   
 
 <a href="https://www.tiktok.com/@gullyasmeen7">
-<img src="https://cdn.simpleicons.org/tiktok/ffffff" height="48"/>
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok"/>
 </a>
 
-</div>
-
-> **Replace these placeholders before publishing:**
->
-> * `www.linkedin.com/in/yasmeen-gull-82a9a0326`
-> * `gullyasmeen814@gmail.com`
-
+</p>
 ---
 
 # 🐍 Contribution Snake
@@ -342,7 +327,7 @@ Motto:
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YasmeenGull/YasmeenGull/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/YasmeenGull/YasmeenGull/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
