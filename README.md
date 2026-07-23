@@ -48,13 +48,6 @@ I believe every project is an opportunity to learn something new and improve as 
 
 <br clear="right"/>
 
----
-<p align="center">
-
-<img width="420" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
-
-</p>
----
 
 # 👩‍💻 About Me
 
