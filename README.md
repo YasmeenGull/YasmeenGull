@@ -15,7 +15,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=900&color=7C3AED&lines=Computer+Science+Student;Aspiring+Software+Developer;AI+%7C+Machine+Learning+Enthusiast;Full+Stack+Developer+in+Progress;Always+Learning+Something+New"/>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=YasmeenGull&label=Profile%20Views&color=color=F472B6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=YasmeenGull&label=Profile%20Views&color=color=color=EC4899&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/YasmeenGull?style=for-the-badge&logo=github&cacheSeconds=300"/>
 
