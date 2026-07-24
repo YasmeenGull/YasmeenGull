@@ -79,6 +79,117 @@ Motto:
 ```
 
 ---
+<!-- ===================================================== -->
+
+<!--        PREMIUM GITHUB PROFILE README - PART 2         -->
+
+<!-- ===================================================== -->
+
+
+
+# 📈 GitHub Activity Graph
+
+<div align="center">
+
+[![Yasmeen's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YasmeenGull\&theme=tokyo-night\&hide_border=true)](https://github.com/YasmeenGull)
+
+</div>
+
+---
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats-nu-ten-17.vercel.app/api?username=YasmeenGull&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=YasmeenGull&theme=midnight-purplet&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="45%" src="https://github-readme-stats-nu-ten-17.vercel.app/api/top-langs/?username=YasmeenGull&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+![Python](https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge&logo=python)
+
+![AI](https://img.shields.io/badge/AI-Learning-purple?style=for-the-badge)
+
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge)
+---
+
+
+# 🎖 Developer Badges
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge&logo=python"/>
+
+<img src="https://img.shields.io/badge/AI-Learning-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open_Source-Contributor-success?style=for-the-badge"/>
+
+</p>
+
+# 🐍 Contribution Snake
+
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/YasmeenGull/YasmeenGull/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+
+# 💼 What I'm Working On
+
+```text
+🚀 Building Personal Projects
+💻 Improving Full Stack Skills
+🤖 Exploring AI & Machine Learning
+📚 Practicing Data Structures & Algorithms
+🌐 Learning Cloud Technologies
+✨ Contributing More on GitHub
+```
+
+---
+
+# 🎯 2026 Goals
+
+<div align="center">
+
+| Goal                           | Progress |
+| :----------------------------- | :------: |
+| Become a Full Stack Developer  |    🚀    |
+| Master AI & Machine Learning   |    🚀    |
+| Build Real-World Applications  |    🚀    |
+| Improve Problem Solving Skills |    🚀    |
+| Contribute to Open Source      |     ⭐    |
+| Keep Learning Every Day        |    💜    |
+
+</div>
+
+---
+
+
+
+<div align="center">
+
+## 🌟 "Small Progress Every Day Leads to Big Success."
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:4F46E5&height=3"/>
+
+</div>
+
+<!-- ==================== END OF PART 2 ==================== -->
 
 # 🚀 Tech Stack
 
@@ -179,109 +290,7 @@ Motto:
 
 </div>
 
-<!-- ==================== END OF PART 1 ==================== -->
-<!-- ===================================================== -->
 
-<!--        PREMIUM GITHUB PROFILE README - PART 2         -->
-
-<!-- ===================================================== -->
-
-
-
-# 📈 GitHub Activity Graph
-
-<div align="center">
-
-[![Yasmeen's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YasmeenGull\&theme=tokyo-night\&hide_border=true)](https://github.com/YasmeenGull)
-
-</div>
-
----
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats-nu-ten-17.vercel.app/api?username=YasmeenGull&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=YasmeenGull&theme=midnight-purplet&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="45%" src="https://github-readme-stats-nu-ten-17.vercel.app/api/top-langs/?username=YasmeenGull&layout=compact&theme=midnight-purple&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-![Python](https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge&logo=python)
-
-![AI](https://img.shields.io/badge/AI-Learning-purple?style=for-the-badge)
-
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge)
----
-
-
-# 🎖 Developer Badges
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge&logo=python"/>
-
-<img src="https://img.shields.io/badge/AI-Learning-purple?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open_Source-Contributor-success?style=for-the-badge"/>
-
-</p>
-
-
-
-# 💼 What I'm Working On
-
-```text
-🚀 Building Personal Projects
-💻 Improving Full Stack Skills
-🤖 Exploring AI & Machine Learning
-📚 Practicing Data Structures & Algorithms
-🌐 Learning Cloud Technologies
-✨ Contributing More on GitHub
-```
-
----
-
-# 🎯 2026 Goals
-
-<div align="center">
-
-| Goal                           | Progress |
-| :----------------------------- | :------: |
-| Become a Full Stack Developer  |    🚀    |
-| Master AI & Machine Learning   |    🚀    |
-| Build Real-World Applications  |    🚀    |
-| Improve Problem Solving Skills |    🚀    |
-| Contribute to Open Source      |     ⭐    |
-| Keep Learning Every Day        |    💜    |
-
-</div>
-
----
-
-
-
-<div align="center">
-
-## 🌟 "Small Progress Every Day Leads to Big Success."
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:4F46E5&height=3"/>
-
-</div>
-
-<!-- ==================== END OF PART 2 ==================== -->
 <!-- ===================================================== -->
 
 <!--        PREMIUM GITHUB PROFILE README - PART 3         -->
@@ -315,15 +324,7 @@ Motto:
 </p>
 ---
 
-# 🐍 Contribution Snake
 
-
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/YasmeenGull/YasmeenGull/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
 
 # 💬 Favorite Developer Quote
 
