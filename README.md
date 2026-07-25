@@ -47,35 +47,7 @@ I believe every project is an opportunity to learn something new and improve as 
 * 💡 Love Solving Programming Challenges
 
 <br clear="right"/>
-
-
-# 👩‍💻 About Me
-
-```yaml
-Name: Yasmeen Gull
-
-Education:
-   Bachelor of Science in Computer Science
-
-CGPA:
-   3.96 / 4.00
-
-Interests:
-   - Software Development
-   - Artificial Intelligence
-   - Machine Learning
-   - Web Development
-   - Problem Solving
-
-Current Focus:
-   Full Stack Development
-   AI/ML
-Dream:
-   Become a successful Software Developer
-   and build impactful software.
-
-Motto:
-   Learn • Build • Improve • Repeat
+Build • Improve • Repeat
 ```
 
 ---
