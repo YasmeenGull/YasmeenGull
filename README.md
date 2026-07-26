@@ -74,7 +74,7 @@ Build • Improve • Repeat
 
 <img width="49%" src="https://github-readme-stats-nu-ten-17.vercel.app/api?username=YasmeenGull&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=YasmeenGull&theme=midnight-purplet&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=YasmeenGull&theme=midnight-purple&hide_border=true&v=2"/>
 
 </div>
 
@@ -85,7 +85,6 @@ Build • Improve • Repeat
 <img width="45%" src="https://github-readme-stats-nu-ten-17.vercel.app/api/top-langs/?username=YasmeenGull&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </div>
-
 ---
 
 # 🏆 GitHub Achievements
