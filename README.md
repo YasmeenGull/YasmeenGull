@@ -48,7 +48,7 @@ I believe every project is an opportunity to learn something new and improve as 
 
 <br clear="right"/>
 Build • Improve • Repeat
-```
+
 
 ---
 <!-- ===================================================== -->
@@ -85,7 +85,7 @@ Build • Improve • Repeat
 <img width="45%" src="https://github-readme-stats-nu-ten-17.vercel.app/api/top-langs/?username=YasmeenGull&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </div>
----
+
 
 # 🏆 GitHub Achievements
 
@@ -110,8 +110,6 @@ Build • Improve • Repeat
 </p>
 
 # 🐍 Contribution Snake
-
-
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/YasmeenGull/YasmeenGull/output/github-contribution-grid-snake.svg"/>
