@@ -291,9 +291,6 @@ Build • Improve • Repeat
 </a>
 
 </p>
----
-
-
 
 # 💬 Favorite Developer Quote
 
