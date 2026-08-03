@@ -62,9 +62,7 @@ Build • Improve • Repeat
 # 📈 GitHub Activity Graph
 
 <div align="center">
-
-[![Yasmeen's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YasmeenGull\&theme=tokyo-night\&hide_border=true)](https://github.com/YasmeenGull)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasmeenGull&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
