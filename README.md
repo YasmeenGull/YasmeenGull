@@ -74,7 +74,7 @@ Build • Improve • Repeat
 
 <img width="49%" src="https://github-readme-stats-nu-ten-17.vercel.app/api?username=YasmeenGull&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=YasmeenGull&theme=midnight-purple&hide_border=true&v=2"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=YasmeenGull&theme=midnight-purple&hide_border=true&t=1722690000"/>
 
 </div>
 
