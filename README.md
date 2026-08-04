@@ -303,7 +303,8 @@ Build • Improve • Repeat
 
 <div align="center">
 
-> **"First, solve the problem. Then, write the code."**
+> **"Talk is cheap..Show me the code...and the tests!!."**
+ > **"First solve the problem.Then write the code..!!."**
 > — *John Johnson*
 
 </div>
