@@ -40,7 +40,6 @@ I believe every project is an opportunity to learn something new and improve as 
 
 * 🎓 BS Computer Science Student
 * ⭐ CGPA **3.96 / 4.00**
-* 💜 Passionate about Software Development
 * 🤖 Exploring Artificial Intelligence & Machine Learning
 * 🌐 Learning Modern Web Technologies
 * 🚀 Building Projects Every Semester
