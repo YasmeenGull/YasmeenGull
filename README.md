@@ -57,7 +57,6 @@ Build • Improve • Repeat
 <!-- ===================================================== -->
 
 
-
 # 📈 GitHub Activity Graph
 
 <div align="center">
@@ -66,7 +65,6 @@ Build • Improve • Repeat
 
 ---
 # 📊 GitHub Statistics
-
 
 <div align="center">
 
@@ -92,7 +90,6 @@ Build • Improve • Repeat
 
 </div>
 
-
 # 🏆 GitHub Achievements
 
 ![Python](https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge&logo=python)
@@ -101,7 +98,6 @@ Build • Improve • Repeat
 
 ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge)
 ---
-
 
 # 🎖 Developer Badges
 
@@ -123,7 +119,6 @@ Build • Improve • Repeat
 
 ---
 
-
 # 💼 What I'm Working On
 
 ```text
@@ -134,11 +129,8 @@ Build • Improve • Repeat
 🌐 Learning Cloud Technologies
 ✨ Contributing More on GitHub
 ```
-
 ---
-
 # 🎯 2026 Goals
-
 <div align="center">
 
 | Goal                           | Progress |
@@ -167,11 +159,9 @@ Build • Improve • Repeat
 <!-- ==================== END OF PART 2 ==================== -->
 
 # 🚀 Tech Stack
-
 <div align="center">
 
 ### Languages
-
 <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,java,mysql"/>
 
 <br><br>
@@ -185,7 +175,6 @@ Build • Improve • Repeat
 ---
 
 # 💻 Programming Languages
-
 <p align="center">
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
