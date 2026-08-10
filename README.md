@@ -27,13 +27,10 @@
 </div>
 
 ---
-
 # 💙 Welcome
-
 <img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 ### 👋 Welcome to my GitHub!
-
 I'm **Yasmeen Gull**, a passionate **BS Computer Science** student who enjoys building software, learning modern technologies, and solving real-world problems through code.
 
 I believe every project is an opportunity to learn something new and improve as a developer. My goal is to create software that is useful, scalable, and impactful.
@@ -91,7 +88,6 @@ Build • Improve • Repeat
 </div>
 
 # 🏆 GitHub Achievements
-
 ![Python](https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge&logo=python)
 
 ![AI](https://img.shields.io/badge/AI-Learning-purple?style=for-the-badge)
@@ -171,9 +167,7 @@ Build • Improve • Repeat
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux"/>
 
 </div>
-
 ---
-
 # 💻 Programming Languages
 <p align="center">
 
@@ -214,7 +208,6 @@ Build • Improve • Repeat
 ---
 
 # 📚 Currently Learning
-
 <div align="center">
 
 | 🚀 Learning Roadmap          | Status |
@@ -245,7 +238,6 @@ Build • Improve • Repeat
 ```
 
 ---
-
 <div align="center">
 
 ## 💜 "Code. Learn. Build. Repeat."
