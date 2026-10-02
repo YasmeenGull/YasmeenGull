@@ -5,7 +5,13 @@
 <!--            Created for Yasmeen Gull                   -->
 
 <!-- ===================================================== -->
+<div align="center">
 
+<img width="100%" src="https://raw.githubusercontent.com/YasmeenGull/YasmeenGull/main/banner.svg" alt="YasmeenGull Animated Banner"/>
+
+</div>
+
+<br>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=color=EC4899,50:C084FC,100:8B5CF6&text=Yasmeen%20Gull&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60"/>
